@@ -22,6 +22,6 @@
 ##
 <span> 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=spankercode&show_icons=true&theme=radical" width="%100" height="200px"
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=spxnker&show_icons=true&theme=radical" width="%100" height="200px"
 </p>
 </span>
