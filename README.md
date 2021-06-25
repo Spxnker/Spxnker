@@ -28,8 +28,7 @@
 
 </a>
             
- <a href="https://open.spotify.com/user/5aiwy1978nzk3a5kft6a7oyqk?si=1f85152e4e854514" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-    
+
    
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/323301869319618560?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/323301869319618560)
 
