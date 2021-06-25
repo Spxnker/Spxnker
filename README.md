@@ -25,3 +25,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=spxnker&show_icons=true&theme=radical" width="%100" height="200px"
 </p>
 </span>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/820361956644093972?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/820361956644093972)
+
+</p>
