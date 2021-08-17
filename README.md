@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=spxnker&label=Ziyaretçi%20Sayısı&color=552b75" alt="spxnker" />
+<img src="https://komarev.com/ghpvc/?username=freeCodeCamp&label=Ziyaretçi%20Sayısı&color=552b75" alt="freeCodeCamp" />
 <h1 align="center">🖥 im Spanker</h1>
 <p align="center">
  <a href="https://discord.com/users/820361956644093972" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
