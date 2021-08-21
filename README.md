@@ -1,6 +1,6 @@
 ## Hello there <!-- kyranet Kişisinden aldım. --> 👋
 
-<img src="https://komarev.com/ghpvc/?username=kyranet" alt="kyranet" />
+<img src="https://komarev.com/ghpvc/?username=freeCodeCamp" alt="freeCodeCamp" />
 
 My name is Arda Yıldız, I am from Bursa (Turkey), Nilüfer İMKB Fen Lisesi.
 
