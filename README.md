@@ -8,7 +8,7 @@ You may know me from discord. I'm a Discord bot developer. They have servers tha
 
 I'm mostly active on [Discord] and [Instagram] so if you want to log in again
 contact me then you can best do this by joining [my Discord server] or
-[contact via dm].
+[contact via dm Spanker#4872].
 
 #### Some stats!
 
