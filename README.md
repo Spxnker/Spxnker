@@ -10,6 +10,8 @@ I'm mostly active on [Discord] and [Instagram] so if you want to log in again
 contact me then you can best do this by joining [my Discord server] or
 [contact via dm Spanker#4872].
 
+![Discord](https://discord.c99.nl/widget/theme-1/817747393025015828.png)
+
 #### Some stats!
 
 <table>
