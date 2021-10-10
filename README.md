@@ -1,6 +1,6 @@
 ## Hello there <!-- kyranet Kişisinden aldım. --> 👋
 
-<img src="https://komarev.com/ghpvc/?username=kyranet" alt="kyranet" />
+
 
 My name is Arda Yıldız, I am from Bursa (Turkey), Nilüfer İMKB Fen Lisesi.
 
