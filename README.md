@@ -1,3 +1,4 @@
+<img src="https://count.getloli.com/get/@:spxnker?theme=rule34" alt=":spxnker" />
 ## Hello there <!-- kyranet Kişisinden aldım. --> 👋
 
 
