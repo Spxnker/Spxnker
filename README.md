@@ -9,7 +9,7 @@ You may know me from discord. I'm a Discord bot developer. They have servers tha
 
 I'm mostly active on [Discord] and [Instagram] so if you want to log in again
 contact me then you can best do this by joining [my Discord server] or
-[contact via dm Spanker#4872].
+[contact via dm spxnker#7730].
 
 ![Discord](https://discord.c99.nl/widget/theme-4/817747393025015828.png)
 
