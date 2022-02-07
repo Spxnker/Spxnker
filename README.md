@@ -1,1 +1,1 @@
-elimde makina
+yavaş yavaş tamam tamam
