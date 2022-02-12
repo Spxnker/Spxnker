@@ -1,1 +1,2 @@
-yavaş yavaş tamam tamam
+https://github.com/Spxnker/discord-local-rol-backup-bot
+PAYLAŞTIM
